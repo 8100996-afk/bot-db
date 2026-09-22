@@ -1,5 +1,10 @@
 {
-  "enabled_groups": {},
+  "enabled_groups": {
+    "-1003901352700": {
+      "enabled_at": 1790056998,
+      "title": "hk九龙 chat bot交流群"
+    }
+  },
   "exemptions": {},
   "history": [],
   "initialized_orders": {
