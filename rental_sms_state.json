@@ -34,17 +34,7 @@
     "VR.20260919-FYENGV": true,
     "VR.20260919-UWCCVJ": true
   },
-  "pending": {
-    "-1003901352700:8836525820": {
-      "chat_id": -1003901352700,
-      "code": "TG909387",
-      "deadline": 1790058514.4285734,
-      "joined_at": 1790058214,
-      "name": "九龙 在荷兰",
-      "sms_text": "TGVERIFY 8836525820 TG909387",
-      "user_id": 8836525820
-    }
-  },
+  "pending": {},
   "seen": {
     "VR.20260919-FYENGV": [
       "ab6039e4b385c692b934b7b07a438178fe9799d1f5c6d6a69f4f242fe2510789"
