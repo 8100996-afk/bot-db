@@ -7,10 +7,7 @@
   },
   "exemptions": {},
   "history": [],
-  "initialized_orders": {
-    "VR.20260919-FYENGV": true,
-    "VR.20260919-UWCCVJ": true
-  },
+  "initialized_orders": {},
   "pending": {},
   "seen": {},
   "verified_phone_bindings": {}
