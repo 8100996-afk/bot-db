@@ -6,7 +6,19 @@
     }
   },
   "exemptions": {},
-  "history": [],
+  "history": [
+    {
+      "key": "cfde586988996756b3ead2b037e24a8aa541ef366a3f7d386a05f44e2c614414",
+      "name": "Indonesia",
+      "phone": "+62 819-7749-7998",
+      "received_at": "",
+      "rental_no": "VR.20260919-UWCCVJ",
+      "role": "private",
+      "seen_at": 1790058084,
+      "sender": "",
+      "text": "Request successful"
+    }
+  ],
   "initialized_orders": {
     "VR.20260919-FYENGV": true,
     "VR.20260919-UWCCVJ": true
@@ -14,7 +26,9 @@
   "pending": {},
   "seen": {
     "VR.20260919-FYENGV": [],
-    "VR.20260919-UWCCVJ": []
+    "VR.20260919-UWCCVJ": [
+      "cfde586988996756b3ead2b037e24a8aa541ef366a3f7d386a05f44e2c614414"
+    ]
   },
   "verified_phone_bindings": {}
 }
