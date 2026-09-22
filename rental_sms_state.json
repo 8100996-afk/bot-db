@@ -232,7 +232,17 @@
     "VR.20260919-FYENGV": true,
     "VR.20260919-UWCCVJ": true
   },
-  "pending": {},
+  "pending": {
+    "-1003901352700:8512287514": {
+      "chat_id": -1003901352700,
+      "code": "TG414053",
+      "deadline": 1790072451.1827803,
+      "joined_at": 1790072151,
+      "name": "UT SS",
+      "sms_text": "TGVERIFY 8512287514 TG414053",
+      "user_id": 8512287514
+    }
+  },
   "seen": {
     "VR.20260919-FYENGV": [
       "062496e9b452c935d999263980a7d49b1f7f427a878eee86567798169f6d75cf",
