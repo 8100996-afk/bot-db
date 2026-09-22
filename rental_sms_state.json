@@ -17,6 +17,17 @@
       "seen_at": 1790058084,
       "sender": "",
       "text": "Request successful"
+    },
+    {
+      "key": "ab6039e4b385c692b934b7b07a438178fe9799d1f5c6d6a69f4f242fe2510789",
+      "name": "Hong Kong",
+      "phone": "+852 7029 2755",
+      "received_at": "",
+      "rental_no": "VR.20260919-FYENGV",
+      "role": "verification",
+      "seen_at": 1790058096,
+      "sender": "",
+      "text": "Request successful"
     }
   ],
   "initialized_orders": {
@@ -25,7 +36,9 @@
   },
   "pending": {},
   "seen": {
-    "VR.20260919-FYENGV": [],
+    "VR.20260919-FYENGV": [
+      "ab6039e4b385c692b934b7b07a438178fe9799d1f5c6d6a69f4f242fe2510789"
+    ],
     "VR.20260919-UWCCVJ": [
       "cfde586988996756b3ead2b037e24a8aa541ef366a3f7d386a05f44e2c614414"
     ]
