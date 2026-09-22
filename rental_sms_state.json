@@ -6,9 +6,150 @@
     }
   },
   "exemptions": {},
-  "history": [],
-  "initialized_orders": {},
+  "history": [
+    {
+      "key": "fc017883305481c566515328c76bd28870ef6c3b6ad218e0a325b463303cf023",
+      "name": "Indonesia",
+      "phone": "+62 819-7749-7998",
+      "received_at": "",
+      "rental_no": "VR.20260919-UWCCVJ",
+      "role": "private",
+      "seen_at": 1790069229,
+      "sender": "",
+      "text": "Telegram code: 36274You can also tap on this link to cancel resetting your account:https://t.me/login/36274oLeq9AcOZkT"
+    },
+    {
+      "key": "df7e070bc967d560f57a475d49a617ae496fc2c66a7a08aea81728798db0118f",
+      "name": "Indonesia",
+      "phone": "+62 819-7749-7998",
+      "received_at": "",
+      "rental_no": "VR.20260919-UWCCVJ",
+      "role": "private",
+      "seen_at": 1790069229,
+      "sender": "",
+      "text": "Telegram code: 75950You can also tap on this link to log in:https://t.me/login/75950"
+    },
+    {
+      "key": "bbc724aaff92e61793bb7e160e9556b70d54cde1c175877e408f86d7166e75c9",
+      "name": "Indonesia",
+      "phone": "+62 819-7749-7998",
+      "received_at": "",
+      "rental_no": "VR.20260919-UWCCVJ",
+      "role": "private",
+      "seen_at": 1790069229,
+      "sender": "",
+      "text": "Telegram code: 21071You can also tap on this link to log in:https://t.me/login/21071"
+    },
+    {
+      "key": "bcfd7a254223f3f0b1dcd02e65d682ef49deddf7b7183c7c29ce5ab6ec94e60c",
+      "name": "Indonesia",
+      "phone": "+62 819-7749-7998",
+      "received_at": "",
+      "rental_no": "VR.20260919-UWCCVJ",
+      "role": "private",
+      "seen_at": 1790069229,
+      "sender": "",
+      "text": "您的短信验证码为：308277，请在30分钟内输入进行验证。"
+    },
+    {
+      "key": "c4ac87ae722eb44ec23e72ff5b1f68fd5637a740f00d1c3e639af86a15e49fb7",
+      "name": "Indonesia",
+      "phone": "+62 819-7749-7998",
+      "received_at": "",
+      "rental_no": "VR.20260919-UWCCVJ",
+      "role": "private",
+      "seen_at": 1790069229,
+      "sender": "",
+      "text": "Thank you for subscribing to our service. Your subscription for the number [ +62 81977497998 ] has been successfully activated."
+    },
+    {
+      "key": "062496e9b452c935d999263980a7d49b1f7f427a878eee86567798169f6d75cf",
+      "name": "Hong Kong",
+      "phone": "+852 7029 2755",
+      "received_at": "",
+      "rental_no": "VR.20260919-FYENGV",
+      "role": "private_verification",
+      "seen_at": 1790069229,
+      "sender": "",
+      "text": "america.receivesms.top"
+    },
+    {
+      "key": "5d3e6e4a2091ff26ec81970130767d0b037f9d0ad954ce2f7c375befa1464b87",
+      "name": "Hong Kong",
+      "phone": "+852 7029 2755",
+      "received_at": "",
+      "rental_no": "VR.20260919-FYENGV",
+      "role": "private_verification",
+      "seen_at": 1790069229,
+      "sender": "",
+      "text": "POST"
+    },
+    {
+      "key": "610c04a2ead29705d5e29ba379c0fc9426948d5f295a7cb341ab1b372ddcabf7",
+      "name": "Hong Kong",
+      "phone": "+852 7029 2755",
+      "received_at": "",
+      "rental_no": "VR.20260919-FYENGV",
+      "role": "private_verification",
+      "seen_at": 1790069229,
+      "sender": "",
+      "text": "POST /api/v5/get_rent_number_message"
+    },
+    {
+      "key": "ff87f04e17d1b919d2e6e3359606e4b9b5ae17ccdbb55c9a4c755c771a6b75c6",
+      "name": "Hong Kong",
+      "phone": "+852 7029 2755",
+      "received_at": "",
+      "rental_no": "VR.20260919-FYENGV",
+      "role": "private_verification",
+      "seen_at": 1790069229,
+      "sender": "",
+      "text": "2026-09-22 17:27:09"
+    },
+    {
+      "key": "b235f93a98392cad9cbbb1520e90442d6a1ea3e0a020d0e6ee406043fe082e86",
+      "name": "Hong Kong",
+      "phone": "+852 7029 2755",
+      "received_at": "",
+      "rental_no": "VR.20260919-FYENGV",
+      "role": "private_verification",
+      "seen_at": 1790069229,
+      "sender": "",
+      "text": "74.220.48.71"
+    },
+    {
+      "key": "95df1a8f48d4ef97ee67d1ee92253849d3848117579b3bd336da47b9846e2660",
+      "name": "Hong Kong",
+      "phone": "+852 7029 2755",
+      "received_at": "",
+      "rental_no": "VR.20260919-FYENGV",
+      "role": "private_verification",
+      "seen_at": 1790069229,
+      "sender": "",
+      "text": "VR.20260919-FYENGV"
+    }
+  ],
+  "initialized_orders": {
+    "VR.20260919-FYENGV": true,
+    "VR.20260919-UWCCVJ": true
+  },
   "pending": {},
-  "seen": {},
+  "seen": {
+    "VR.20260919-FYENGV": [
+      "062496e9b452c935d999263980a7d49b1f7f427a878eee86567798169f6d75cf",
+      "5d3e6e4a2091ff26ec81970130767d0b037f9d0ad954ce2f7c375befa1464b87",
+      "610c04a2ead29705d5e29ba379c0fc9426948d5f295a7cb341ab1b372ddcabf7",
+      "ff87f04e17d1b919d2e6e3359606e4b9b5ae17ccdbb55c9a4c755c771a6b75c6",
+      "b235f93a98392cad9cbbb1520e90442d6a1ea3e0a020d0e6ee406043fe082e86",
+      "95df1a8f48d4ef97ee67d1ee92253849d3848117579b3bd336da47b9846e2660"
+    ],
+    "VR.20260919-UWCCVJ": [
+      "fc017883305481c566515328c76bd28870ef6c3b6ad218e0a325b463303cf023",
+      "df7e070bc967d560f57a475d49a617ae496fc2c66a7a08aea81728798db0118f",
+      "bbc724aaff92e61793bb7e160e9556b70d54cde1c175877e408f86d7166e75c9",
+      "bcfd7a254223f3f0b1dcd02e65d682ef49deddf7b7183c7c29ce5ab6ec94e60c",
+      "c4ac87ae722eb44ec23e72ff5b1f68fd5637a740f00d1c3e639af86a15e49fb7"
+    ]
+  },
   "verified_phone_bindings": {}
 }
