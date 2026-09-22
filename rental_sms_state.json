@@ -45,17 +45,7 @@
     "VR.20260919-FYENGV": true,
     "VR.20260919-UWCCVJ": true
   },
-  "pending": {
-    "-1003901352700:8764001150": {
-      "chat_id": -1003901352700,
-      "code": "TG533419",
-      "deadline": 1790065635.9704287,
-      "joined_at": 1790065335,
-      "name": "小贝在美国",
-      "sms_text": "TGVERIFY 8764001150 TG533419",
-      "user_id": 8764001150
-    }
-  },
+  "pending": {},
   "seen": {
     "VR.20260919-FYENGV": [
       "ab6039e4b385c692b934b7b07a438178fe9799d1f5c6d6a69f4f242fe2510789",
