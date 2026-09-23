@@ -265,7 +265,19 @@
     "VR.20260919-FYENGV": true,
     "VR.20260919-UWCCVJ": true
   },
-  "pending": {},
+  "pending": {
+    "-1003901352700:8419318518": {
+      "chat_id": -1003901352700,
+      "code": "TG189898",
+      "deadline": 1790172088.7736337,
+      "join_message_id": 12893,
+      "joined_at": 1790171788,
+      "name": "雪ノ下雪乃",
+      "sms_text": "TGVERIFY 8419318518 TG189898",
+      "user_id": 8419318518,
+      "verify_message_id": null
+    }
+  },
   "seen": {
     "VR.20260919-FYENGV": [
       "062496e9b452c935d999263980a7d49b1f7f427a878eee86567798169f6d75cf",
