@@ -243,7 +243,19 @@
     "VR.20260919-FYENGV": true,
     "VR.20260919-UWCCVJ": true
   },
-  "pending": {},
+  "pending": {
+    "-1003901352700:8606108079": {
+      "chat_id": -1003901352700,
+      "code": "TG662058",
+      "deadline": 1790161356.79258,
+      "join_message_id": 12789,
+      "joined_at": 1790161056,
+      "name": "Kabasha",
+      "sms_text": "TGVERIFY 8606108079 TG662058",
+      "user_id": 8606108079,
+      "verify_message_id": null
+    }
+  },
   "seen": {
     "VR.20260919-FYENGV": [
       "062496e9b452c935d999263980a7d49b1f7f427a878eee86567798169f6d75cf",
