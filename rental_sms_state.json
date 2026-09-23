@@ -254,7 +254,19 @@
     "VR.20260919-FYENGV": true,
     "VR.20260919-UWCCVJ": true
   },
-  "pending": {},
+  "pending": {
+    "-1003901352700:8615680611": {
+      "chat_id": -1003901352700,
+      "code": "TG130509",
+      "deadline": 1790166054.5272384,
+      "join_message_id": 12857,
+      "joined_at": 1790165754,
+      "name": "紫",
+      "sms_text": "TGVERIFY 8615680611 TG130509",
+      "user_id": 8615680611,
+      "verify_message_id": null
+    }
+  },
   "seen": {
     "VR.20260919-FYENGV": [
       "062496e9b452c935d999263980a7d49b1f7f427a878eee86567798169f6d75cf",
