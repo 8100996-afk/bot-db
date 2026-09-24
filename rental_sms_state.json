@@ -325,6 +325,17 @@
       "seen_at": 1790257460,
       "sender": "",
       "text": "[kugou music]Your code: 467489. Don't share it with others."
+    },
+    {
+      "key": "47c3635a58ad0c439433a61d94e0f31317858da7250791fe45b5f142841535e6",
+      "name": "Hong Kong",
+      "phone": "+852 7029 2755",
+      "received_at": "",
+      "rental_no": "VR.20260919-FYENGV",
+      "role": "private_verification",
+      "seen_at": 1790257667,
+      "sender": "",
+      "text": "Tencent315849 腾讯视频验证码。有效期60秒，请勿向任何人泄露。如非本人操作，请忽略本短信。"
     }
   ],
   "initialized_orders": {
@@ -357,7 +368,8 @@
       "afab769621961b686c7e2862a847921b0d0cff98cc1f2923ced924224493bb35",
       "f707d5f4487fb8a975b55198b3b532688a2b783bca7093061a5e7c6c7d917f57",
       "31355cec37ef70a0a90b69def33d79551521859c2b62dc67bc3c71e7549c0fb0",
-      "8e9bdf60af7b77ef897fafd2a6aa250f607d5cd4bd0be0f2152039bd2da3bfe1"
+      "8e9bdf60af7b77ef897fafd2a6aa250f607d5cd4bd0be0f2152039bd2da3bfe1",
+      "47c3635a58ad0c439433a61d94e0f31317858da7250791fe45b5f142841535e6"
     ],
     "VR.20260919-UWCCVJ": [
       "fc017883305481c566515328c76bd28870ef6c3b6ad218e0a325b463303cf023",
