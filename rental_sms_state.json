@@ -287,7 +287,19 @@
     "VR.20260919-FYENGV": true,
     "VR.20260919-UWCCVJ": true
   },
-  "pending": {},
+  "pending": {
+    "-1003901352700:8548387882": {
+      "chat_id": -1003901352700,
+      "code": "TG536547",
+      "deadline": 1790246350.3644416,
+      "join_message_id": 13609,
+      "joined_at": 1790246050,
+      "name": "Kokko",
+      "sms_text": "TGVERIFY 8548387882 TG536547",
+      "user_id": 8548387882,
+      "verify_message_id": null
+    }
+  },
   "seen": {
     "VR.20260919-FYENGV": [
       "062496e9b452c935d999263980a7d49b1f7f427a878eee86567798169f6d75cf",
