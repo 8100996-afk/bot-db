@@ -342,19 +342,7 @@
     "VR.20260919-FYENGV": true,
     "VR.20260919-UWCCVJ": true
   },
-  "pending": {
-    "-1003901352700:7339459383": {
-      "chat_id": -1003901352700,
-      "code": "TG551571",
-      "deadline": 1790440123.1973395,
-      "join_message_id": 14853,
-      "joined_at": 1790439823,
-      "name": "𝑼𝒏𝒌𝒏𝒐𝒘𝒏",
-      "sms_text": "TGVERIFY 7339459383 TG551571",
-      "user_id": 7339459383,
-      "verify_message_id": 14854
-    }
-  },
+  "pending": {},
   "seen": {
     "VR.20260919-FYENGV": [
       "062496e9b452c935d999263980a7d49b1f7f427a878eee86567798169f6d75cf",
