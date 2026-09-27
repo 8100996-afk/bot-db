@@ -336,25 +336,24 @@
       "seen_at": 1790257667,
       "sender": "",
       "text": "Tencent315849 腾讯视频验证码。有效期60秒，请勿向任何人泄露。如非本人操作，请忽略本短信。"
+    },
+    {
+      "key": "0486d944bb63abf6e3bcfb51f11843b35ef796b6f243bd1dda59c07c2ae33116",
+      "name": "Hong Kong",
+      "phone": "+852 7029 2755",
+      "received_at": "",
+      "rental_no": "VR.20260919-FYENGV",
+      "role": "private_verification",
+      "seen_at": 1790493229,
+      "sender": "",
+      "text": "TGVERIFY 7454887420 TG800595"
     }
   ],
   "initialized_orders": {
     "VR.20260919-FYENGV": true,
     "VR.20260919-UWCCVJ": true
   },
-  "pending": {
-    "-1003901352700:7454887420": {
-      "chat_id": -1003901352700,
-      "code": "TG800595",
-      "deadline": 1790493444.3538375,
-      "join_message_id": 15147,
-      "joined_at": 1790493144,
-      "name": "qianlink",
-      "sms_text": "TGVERIFY 7454887420 TG800595",
-      "user_id": 7454887420,
-      "verify_message_id": 15149
-    }
-  },
+  "pending": {},
   "seen": {
     "VR.20260919-FYENGV": [
       "062496e9b452c935d999263980a7d49b1f7f427a878eee86567798169f6d75cf",
@@ -381,7 +380,8 @@
       "f707d5f4487fb8a975b55198b3b532688a2b783bca7093061a5e7c6c7d917f57",
       "31355cec37ef70a0a90b69def33d79551521859c2b62dc67bc3c71e7549c0fb0",
       "8e9bdf60af7b77ef897fafd2a6aa250f607d5cd4bd0be0f2152039bd2da3bfe1",
-      "47c3635a58ad0c439433a61d94e0f31317858da7250791fe45b5f142841535e6"
+      "47c3635a58ad0c439433a61d94e0f31317858da7250791fe45b5f142841535e6",
+      "0486d944bb63abf6e3bcfb51f11843b35ef796b6f243bd1dda59c07c2ae33116"
     ],
     "VR.20260919-UWCCVJ": [
       "fc017883305481c566515328c76bd28870ef6c3b6ad218e0a325b463303cf023",
