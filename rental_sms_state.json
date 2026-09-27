@@ -342,7 +342,19 @@
     "VR.20260919-FYENGV": true,
     "VR.20260919-UWCCVJ": true
   },
-  "pending": {},
+  "pending": {
+    "-1003901352700:7454887420": {
+      "chat_id": -1003901352700,
+      "code": "TG800595",
+      "deadline": 1790493444.3538375,
+      "join_message_id": 15147,
+      "joined_at": 1790493144,
+      "name": "qianlink",
+      "sms_text": "TGVERIFY 7454887420 TG800595",
+      "user_id": 7454887420,
+      "verify_message_id": null
+    }
+  },
   "seen": {
     "VR.20260919-FYENGV": [
       "062496e9b452c935d999263980a7d49b1f7f427a878eee86567798169f6d75cf",
