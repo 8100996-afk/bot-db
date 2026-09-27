@@ -342,19 +342,7 @@
     "VR.20260919-FYENGV": true,
     "VR.20260919-UWCCVJ": true
   },
-  "pending": {
-    "-1003901352700:8971964185": {
-      "chat_id": -1003901352700,
-      "code": "TG464316",
-      "deadline": 1790491973.3820553,
-      "join_message_id": 15117,
-      "joined_at": 1790491673,
-      "name": "小贝在捷克",
-      "sms_text": "TGVERIFY 8971964185 TG464316",
-      "user_id": 8971964185,
-      "verify_message_id": 15118
-    }
-  },
+  "pending": {},
   "seen": {
     "VR.20260919-FYENGV": [
       "062496e9b452c935d999263980a7d49b1f7f427a878eee86567798169f6d75cf",
