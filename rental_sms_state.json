@@ -364,7 +364,19 @@
     "VR.20260919-FYENGV": true,
     "VR.20260919-UWCCVJ": true
   },
-  "pending": {},
+  "pending": {
+    "-1003901352700:8823068103": {
+      "chat_id": -1003901352700,
+      "code": "TG283772",
+      "deadline": 1790591842.3248267,
+      "join_message_id": 16073,
+      "joined_at": 1790591542,
+      "name": "雪",
+      "sms_text": "TGVERIFY 8823068103 TG283772",
+      "user_id": 8823068103,
+      "verify_message_id": null
+    }
+  },
   "seen": {
     "VR.20260919-FYENGV": [
       "062496e9b452c935d999263980a7d49b1f7f427a878eee86567798169f6d75cf",
