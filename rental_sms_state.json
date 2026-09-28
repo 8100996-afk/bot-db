@@ -375,19 +375,7 @@
     "VR.20260919-FYENGV": true,
     "VR.20260919-UWCCVJ": true
   },
-  "pending": {
-    "-1003901352700:8931103506": {
-      "chat_id": -1003901352700,
-      "code": "TG977308",
-      "deadline": 1790592298.4508908,
-      "join_message_id": 16082,
-      "joined_at": 1790591998,
-      "name": "开局一个群 里面全是人精",
-      "sms_text": "TGVERIFY 8931103506 TG977308",
-      "user_id": 8931103506,
-      "verify_message_id": 16083
-    }
-  },
+  "pending": {},
   "seen": {
     "VR.20260919-FYENGV": [
       "062496e9b452c935d999263980a7d49b1f7f427a878eee86567798169f6d75cf",
