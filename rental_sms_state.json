@@ -430,17 +430,6 @@
       "sms_text": "TGVERIFY 8338539573 TG697668",
       "user_id": 8338539573,
       "verify_message_id": 17327
-    },
-    "-1003901352700:8965690298": {
-      "chat_id": -1003901352700,
-      "code": "TG822872",
-      "deadline": 1790801548.3442075,
-      "join_message_id": 17324,
-      "joined_at": 1790801248,
-      "name": "云海联盟|广告投放|投稿爆料|入口点头像",
-      "sms_text": "TGVERIFY 8965690298 TG822872",
-      "user_id": 8965690298,
-      "verify_message_id": 17325
     }
   },
   "seen": {
