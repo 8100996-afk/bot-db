@@ -419,7 +419,19 @@
     "VR.20260919-FYENGV": true,
     "VR.20260919-UWCCVJ": true
   },
-  "pending": {},
+  "pending": {
+    "-1003901352700:8136071293": {
+      "chat_id": -1003901352700,
+      "code": "TG625280",
+      "deadline": 1790831970.7318633,
+      "join_message_id": 17355,
+      "joined_at": 1790831670,
+      "name": "mu se",
+      "sms_text": "TGVERIFY 8136071293 TG625280",
+      "user_id": 8136071293,
+      "verify_message_id": null
+    }
+  },
   "seen": {
     "VR.20260919-FYENGV": [
       "062496e9b452c935d999263980a7d49b1f7f427a878eee86567798169f6d75cf",
