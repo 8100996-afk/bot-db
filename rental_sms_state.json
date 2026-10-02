@@ -413,6 +413,17 @@
       "seen_at": 1790749930,
       "sender": "",
       "text": "TGVERIFY 8717101214 TG598652"
+    },
+    {
+      "key": "0d5074d3ba53f92ebf6f69321b2cfb7f23527a05ae5826ae9e93c4705a0d7e2f",
+      "name": "Hong Kong",
+      "phone": "+852 7029 2755",
+      "received_at": "",
+      "rental_no": "VR.20260919-FYENGV",
+      "role": "private_verification",
+      "seen_at": 1790933732,
+      "sender": "",
+      "text": "TGVERIFY 8755340430 TG697740"
     }
   ],
   "initialized_orders": {
@@ -420,17 +431,6 @@
     "VR.20260919-UWCCVJ": true
   },
   "pending": {
-    "-1003901352700:8755340430": {
-      "chat_id": -1003901352700,
-      "code": "TG697740",
-      "deadline": 1790933941.3929772,
-      "join_message_id": 17706,
-      "joined_at": 1790933641,
-      "name": "炖粉条 猪肉",
-      "sms_text": "TGVERIFY 8755340430 TG697740",
-      "user_id": 8755340430,
-      "verify_message_id": 17707
-    },
     "-1003901352700:8858534425": {
       "chat_id": -1003901352700,
       "code": "TG455774",
@@ -476,7 +476,8 @@
       "cb0834afd2265cfff335d3b1e0c7a1e87ae8eaed6709c78611329b056ef2a83c",
       "e180eb3e5d1a746911c83909e67fe414fd7560d98761d13b273b724c9351316a",
       "bfb57b56915730bb29b6ff0dfcb45d3d27caf2e108295a6c61d38e3054e97e78",
-      "36137c5665b21c84f8d933d97d3be7a2a8a5ad37c9f4a07c734e290d14eda926"
+      "36137c5665b21c84f8d933d97d3be7a2a8a5ad37c9f4a07c734e290d14eda926",
+      "0d5074d3ba53f92ebf6f69321b2cfb7f23527a05ae5826ae9e93c4705a0d7e2f"
     ],
     "VR.20260919-UWCCVJ": [
       "fc017883305481c566515328c76bd28870ef6c3b6ad218e0a325b463303cf023",
