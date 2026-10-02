@@ -435,25 +435,24 @@
       "seen_at": 1790933966,
       "sender": "",
       "text": "TGVERIFY 8858534425 TG455774"
+    },
+    {
+      "key": "a6cf167461bdd863930007229da77fbf154414a45b01201f53c6adaf2cb2d393",
+      "name": "Hong Kong",
+      "phone": "+852 7029 2755",
+      "received_at": "",
+      "rental_no": "VR.20260919-FYENGV",
+      "role": "private_verification",
+      "seen_at": 1790934111,
+      "sender": "",
+      "text": "TGVERIFY 8858534425 TG909736"
     }
   ],
   "initialized_orders": {
     "VR.20260919-FYENGV": true,
     "VR.20260919-UWCCVJ": true
   },
-  "pending": {
-    "-1003901352700:8858534425": {
-      "chat_id": -1003901352700,
-      "code": "TG909736",
-      "deadline": 1790934267.5599275,
-      "join_message_id": 17725,
-      "joined_at": 1790933967,
-      "name": "Kuhn Lee",
-      "sms_text": "TGVERIFY 8858534425 TG909736",
-      "user_id": 8858534425,
-      "verify_message_id": 17726
-    }
-  },
+  "pending": {},
   "seen": {
     "VR.20260919-FYENGV": [
       "062496e9b452c935d999263980a7d49b1f7f427a878eee86567798169f6d75cf",
@@ -489,7 +488,8 @@
       "bfb57b56915730bb29b6ff0dfcb45d3d27caf2e108295a6c61d38e3054e97e78",
       "36137c5665b21c84f8d933d97d3be7a2a8a5ad37c9f4a07c734e290d14eda926",
       "0d5074d3ba53f92ebf6f69321b2cfb7f23527a05ae5826ae9e93c4705a0d7e2f",
-      "212ee21d0844a3e178bef11f12bfc597ae350b08c93a0d571a4ad151c6591d9e"
+      "212ee21d0844a3e178bef11f12bfc597ae350b08c93a0d571a4ad151c6591d9e",
+      "a6cf167461bdd863930007229da77fbf154414a45b01201f53c6adaf2cb2d393"
     ],
     "VR.20260919-UWCCVJ": [
       "fc017883305481c566515328c76bd28870ef6c3b6ad218e0a325b463303cf023",
