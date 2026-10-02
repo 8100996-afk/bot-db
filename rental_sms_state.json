@@ -430,19 +430,7 @@
     "VR.20260919-FYENGV": true,
     "VR.20260919-UWCCVJ": true
   },
-  "pending": {
-    "-1003901352700:8858534425": {
-      "chat_id": -1003901352700,
-      "code": "TG455774",
-      "deadline": 1790933961.7016904,
-      "join_message_id": 17708,
-      "joined_at": 1790933661,
-      "name": "Kuhn Lee",
-      "sms_text": "TGVERIFY 8858534425 TG455774",
-      "user_id": 8858534425,
-      "verify_message_id": 17709
-    }
-  },
+  "pending": {},
   "seen": {
     "VR.20260919-FYENGV": [
       "062496e9b452c935d999263980a7d49b1f7f427a878eee86567798169f6d75cf",
