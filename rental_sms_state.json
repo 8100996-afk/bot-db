@@ -452,19 +452,7 @@
     "VR.20260919-FYENGV": true,
     "VR.20260919-UWCCVJ": true
   },
-  "pending": {
-    "-1003901352700:7539396576": {
-      "chat_id": -1003901352700,
-      "code": "TG588074",
-      "deadline": 1790935429.210427,
-      "join_message_id": 17732,
-      "joined_at": 1790935129,
-      "name": "❄️MPay",
-      "sms_text": "TGVERIFY 7539396576 TG588074",
-      "user_id": 7539396576,
-      "verify_message_id": 17733
-    }
-  },
+  "pending": {},
   "seen": {
     "VR.20260919-FYENGV": [
       "062496e9b452c935d999263980a7d49b1f7f427a878eee86567798169f6d75cf",
