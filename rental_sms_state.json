@@ -463,19 +463,7 @@
     "VR.20260919-FYENGV": true,
     "VR.20260919-UWCCVJ": true
   },
-  "pending": {
-    "-1003901352700:5951717515": {
-      "chat_id": -1003901352700,
-      "code": "TG942681",
-      "deadline": 1791014510.2268093,
-      "join_message_id": 18235,
-      "joined_at": 1791014210,
-      "name": "OU LP",
-      "sms_text": "TGVERIFY 5951717515 TG942681",
-      "user_id": 5951717515,
-      "verify_message_id": 18236
-    }
-  },
+  "pending": {},
   "seen": {
     "VR.20260919-FYENGV": [
       "062496e9b452c935d999263980a7d49b1f7f427a878eee86567798169f6d75cf",
