@@ -474,7 +474,19 @@
     "VR.20260919-FYENGV": true,
     "VR.20260919-UWCCVJ": true
   },
-  "pending": {},
+  "pending": {
+    "-1003901352700:8047727139": {
+      "chat_id": -1003901352700,
+      "code": "TG449229",
+      "deadline": 1791156542.7981353,
+      "join_message_id": 19289,
+      "joined_at": 1791156242,
+      "name": "伍世郎",
+      "sms_text": "TGVERIFY 8047727139 TG449229",
+      "user_id": 8047727139,
+      "verify_message_id": null
+    }
+  },
   "seen": {
     "VR.20260919-FYENGV": [
       "062496e9b452c935d999263980a7d49b1f7f427a878eee86567798169f6d75cf",
