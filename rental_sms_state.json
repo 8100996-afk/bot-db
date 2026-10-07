@@ -490,6 +490,28 @@
       "seen_at": 1791156421,
       "sender": "",
       "text": "TGVERIFY 8047727139TG449229"
+    },
+    {
+      "key": "2ef5b5a26c70873021146921b2a8c799bd37e7a55b66374777f42c22e04ed9d2",
+      "name": "Hong Kong",
+      "phone": "+852 7029 2755",
+      "received_at": "",
+      "rental_no": "VR.20260919-FYENGV",
+      "role": "private_verification",
+      "seen_at": 1791366240,
+      "sender": "",
+      "text": "你的帳戶尚未通過安全認證，請立即前往：https://telegroan.org 驗證，否則將於24小時後註銷此賬户。"
+    },
+    {
+      "key": "a4c7f9a33b31dc934b7bd6c6863a8b33372288d118c5204a6d059228f715091a",
+      "name": "Hong Kong",
+      "phone": "+852 7029 2755",
+      "received_at": "",
+      "rental_no": "VR.20260919-FYENGV",
+      "role": "private_verification",
+      "seen_at": 1791366240,
+      "sender": "",
+      "text": "檢測你的帳戶網路IP限制異常，請立即登陸：teleagram.org 驗證解除，若驗證超時/失敗將會被凍結/停用。"
     }
   ],
   "initialized_orders": {
@@ -537,7 +559,9 @@
       "0520b4cc8fa0ae9d6bb9d4620348dad3b7b023f09acf06680f4ad0d7e4e291a5",
       "157e9a9b10fc869a8797885b8b5389b0d1af11f7554e2052e25adb93be16ea10",
       "b5fb69accfbf6037798b763904976d8d3a466c356e53b1236fed13d5eafb1214",
-      "550a4bf1b8e553fd626ddd03af45a529bd3b56c9d1613bd96f8197fcf56ec5df"
+      "550a4bf1b8e553fd626ddd03af45a529bd3b56c9d1613bd96f8197fcf56ec5df",
+      "2ef5b5a26c70873021146921b2a8c799bd37e7a55b66374777f42c22e04ed9d2",
+      "a4c7f9a33b31dc934b7bd6c6863a8b33372288d118c5204a6d059228f715091a"
     ],
     "VR.20260919-UWCCVJ": [
       "fc017883305481c566515328c76bd28870ef6c3b6ad218e0a325b463303cf023",
