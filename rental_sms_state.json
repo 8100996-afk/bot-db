@@ -518,19 +518,7 @@
     "VR.20260919-FYENGV": true,
     "VR.20260919-UWCCVJ": true
   },
-  "pending": {
-    "-1003901352700:7979777491": {
-      "chat_id": -1003901352700,
-      "code": "TG267003",
-      "deadline": 1791439958.828695,
-      "join_message_id": 20131,
-      "joined_at": 1791439658,
-      "name": "咖啡猫「在线不回弹语音」",
-      "sms_text": "TGVERIFY 7979777491 TG267003",
-      "user_id": 7979777491,
-      "verify_message_id": 20132
-    }
-  },
+  "pending": {},
   "seen": {
     "VR.20260919-FYENGV": [
       "062496e9b452c935d999263980a7d49b1f7f427a878eee86567798169f6d75cf",
