@@ -512,25 +512,24 @@
       "seen_at": 1791366240,
       "sender": "",
       "text": "檢測你的帳戶網路IP限制異常，請立即登陸：teleagram.org 驗證解除，若驗證超時/失敗將會被凍結/停用。"
+    },
+    {
+      "key": "216646ad1fee274f74681595568a175ebd56d1163e1361ddbe3d14ded0fe681c",
+      "name": "Hong Kong",
+      "phone": "+852 7029 2755",
+      "received_at": "",
+      "rental_no": "VR.20260919-FYENGV",
+      "role": "private_verification",
+      "seen_at": 1791540281,
+      "sender": "",
+      "text": "TGVERIFY 797457675 TG906078"
     }
   ],
   "initialized_orders": {
     "VR.20260919-FYENGV": true,
     "VR.20260919-UWCCVJ": true
   },
-  "pending": {
-    "-1003901352700:797457675": {
-      "chat_id": -1003901352700,
-      "code": "TG906078",
-      "deadline": 1791540482.0218878,
-      "join_message_id": 20330,
-      "joined_at": 1791540182,
-      "name": "PepperHu",
-      "sms_text": "TGVERIFY 797457675 TG906078",
-      "user_id": 797457675,
-      "verify_message_id": 20331
-    }
-  },
+  "pending": {},
   "seen": {
     "VR.20260919-FYENGV": [
       "062496e9b452c935d999263980a7d49b1f7f427a878eee86567798169f6d75cf",
@@ -573,7 +572,8 @@
       "b5fb69accfbf6037798b763904976d8d3a466c356e53b1236fed13d5eafb1214",
       "550a4bf1b8e553fd626ddd03af45a529bd3b56c9d1613bd96f8197fcf56ec5df",
       "2ef5b5a26c70873021146921b2a8c799bd37e7a55b66374777f42c22e04ed9d2",
-      "a4c7f9a33b31dc934b7bd6c6863a8b33372288d118c5204a6d059228f715091a"
+      "a4c7f9a33b31dc934b7bd6c6863a8b33372288d118c5204a6d059228f715091a",
+      "216646ad1fee274f74681595568a175ebd56d1163e1361ddbe3d14ded0fe681c"
     ],
     "VR.20260919-UWCCVJ": [
       "fc017883305481c566515328c76bd28870ef6c3b6ad218e0a325b463303cf023",
