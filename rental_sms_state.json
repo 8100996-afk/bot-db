@@ -529,19 +529,7 @@
     "VR.20260919-FYENGV": true,
     "VR.20260919-UWCCVJ": true
   },
-  "pending": {
-    "-1003901352700:8828680572": {
-      "chat_id": -1003901352700,
-      "code": "TG112803",
-      "deadline": 1791577176.0391479,
-      "join_message_id": 20477,
-      "joined_at": 1791576876,
-      "name": "Siu Keung Chung",
-      "sms_text": "TGVERIFY 8828680572 TG112803",
-      "user_id": 8828680572,
-      "verify_message_id": 20478
-    }
-  },
+  "pending": {},
   "seen": {
     "VR.20260919-FYENGV": [
       "062496e9b452c935d999263980a7d49b1f7f427a878eee86567798169f6d75cf",
