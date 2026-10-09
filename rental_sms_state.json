@@ -518,7 +518,19 @@
     "VR.20260919-FYENGV": true,
     "VR.20260919-UWCCVJ": true
   },
-  "pending": {},
+  "pending": {
+    "-1003901352700:8242206080": {
+      "chat_id": -1003901352700,
+      "code": "TG455004",
+      "deadline": 1791540041.6744263,
+      "join_message_id": 20327,
+      "joined_at": 1791539741,
+      "name": "brock",
+      "sms_text": "TGVERIFY 8242206080 TG455004",
+      "user_id": 8242206080,
+      "verify_message_id": null
+    }
+  },
   "seen": {
     "VR.20260919-FYENGV": [
       "062496e9b452c935d999263980a7d49b1f7f427a878eee86567798169f6d75cf",
