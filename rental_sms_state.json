@@ -529,7 +529,24 @@
     "VR.20260919-FYENGV": true,
     "VR.20260919-UWCCVJ": true
   },
-  "pending": {},
+  "moderation": {
+    "message_strikes": {},
+    "network_bans": {},
+    "profile_strikes": {}
+  },
+  "pending": {
+    "-1003901352700:8510861950": {
+      "chat_id": -1003901352700,
+      "code": "TG078794",
+      "deadline": 1791641566.8818846,
+      "join_message_id": 20683,
+      "joined_at": 1791641266,
+      "name": "Mike Koo",
+      "sms_text": "TGVERIFY 8510861950 TG078794",
+      "user_id": 8510861950,
+      "verify_message_id": null
+    }
+  },
   "seen": {
     "VR.20260919-FYENGV": [
       "062496e9b452c935d999263980a7d49b1f7f427a878eee86567798169f6d75cf",
