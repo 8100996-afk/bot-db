@@ -529,7 +529,19 @@
     "VR.20260919-FYENGV": true,
     "VR.20260919-UWCCVJ": true
   },
-  "pending": {},
+  "pending": {
+    "-1003901352700:8865210824": {
+      "chat_id": -1003901352700,
+      "code": "TG091915",
+      "deadline": 1791626190.9540925,
+      "join_message_id": 20611,
+      "joined_at": 1791625890,
+      "name": "云海联盟|广告投放|投稿爆料|入口点头像",
+      "sms_text": "TGVERIFY 8865210824 TG091915",
+      "user_id": 8865210824,
+      "verify_message_id": null
+    }
+  },
   "seen": {
     "VR.20260919-FYENGV": [
       "062496e9b452c935d999263980a7d49b1f7f427a878eee86567798169f6d75cf",
