@@ -543,8 +543,8 @@
   "moderation": {
     "message_strikes": {
       "8598437938": {
-        "count": 1,
-        "last_at": 1791643114,
+        "count": 2,
+        "last_at": 1791643121,
         "reason": "广告链接"
       }
     },
