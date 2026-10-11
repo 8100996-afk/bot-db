@@ -545,6 +545,17 @@
       "seen_at": 1791681195,
       "sender": "",
       "text": "TGVERIFY 8843790238 TG264993"
+    },
+    {
+      "key": "548d445eca425f46b09b4d01502b8466bceff279dfe157a9ce3221159a15e032",
+      "name": "Hong Kong",
+      "phone": "+852 7029 2755",
+      "received_at": "",
+      "rental_no": "VR.20260919-FYENGV",
+      "role": "private_verification",
+      "seen_at": 1791701110,
+      "sender": "",
+      "text": "TGVERIFY 8765392019 TG133299"
     }
   ],
   "initialized_orders": {
@@ -562,19 +573,7 @@
     "network_bans": {},
     "profile_strikes": {}
   },
-  "pending": {
-    "-1003901352700:8765392019": {
-      "chat_id": -1003901352700,
-      "code": "TG133299",
-      "deadline": 1791701288.9277327,
-      "join_message_id": 20946,
-      "joined_at": 1791700988,
-      "name": "英伦靓仔贝",
-      "sms_text": "TGVERIFY 8765392019 TG133299",
-      "user_id": 8765392019,
-      "verify_message_id": 20947
-    }
-  },
+  "pending": {},
   "seen": {
     "VR.20260919-FYENGV": [
       "062496e9b452c935d999263980a7d49b1f7f427a878eee86567798169f6d75cf",
@@ -620,7 +619,8 @@
       "a4c7f9a33b31dc934b7bd6c6863a8b33372288d118c5204a6d059228f715091a",
       "216646ad1fee274f74681595568a175ebd56d1163e1361ddbe3d14ded0fe681c",
       "8a1bb039e56783c4f3c389de350ed1e06a6baf37a3e60a482c78bfca770ced61",
-      "ad3fdbb856ab37e564f3037b6c42e7cccba1b75673c846374360f19102148ed0"
+      "ad3fdbb856ab37e564f3037b6c42e7cccba1b75673c846374360f19102148ed0",
+      "548d445eca425f46b09b4d01502b8466bceff279dfe157a9ce3221159a15e032"
     ],
     "VR.20260919-UWCCVJ": [
       "fc017883305481c566515328c76bd28870ef6c3b6ad218e0a325b463303cf023",
