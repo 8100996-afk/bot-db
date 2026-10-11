@@ -582,7 +582,13 @@
       }
     },
     "network_bans": {},
-    "profile_strikes": {}
+    "profile_strikes": {
+      "7345828741": {
+        "count": 1,
+        "last_at": 1791713171,
+        "reason": "用户名或显示名称含广告、诈骗引流信息"
+      }
+    }
   },
   "pending": {},
   "seen": {
