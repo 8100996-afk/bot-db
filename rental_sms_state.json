@@ -534,6 +534,17 @@
       "seen_at": 1791641473,
       "sender": "",
       "text": "TGVERIFY 8510861950 TG078794"
+    },
+    {
+      "key": "ad3fdbb856ab37e564f3037b6c42e7cccba1b75673c846374360f19102148ed0",
+      "name": "Hong Kong",
+      "phone": "+852 7029 2755",
+      "received_at": "",
+      "rental_no": "VR.20260919-FYENGV",
+      "role": "private_verification",
+      "seen_at": 1791681195,
+      "sender": "",
+      "text": "TGVERIFY 8843790238 TG264993"
     }
   ],
   "initialized_orders": {
@@ -551,19 +562,7 @@
     "network_bans": {},
     "profile_strikes": {}
   },
-  "pending": {
-    "-1003901352700:8843790238": {
-      "chat_id": -1003901352700,
-      "code": "TG264993",
-      "deadline": 1791681265.681439,
-      "join_message_id": 20733,
-      "joined_at": 1791680965,
-      "name": "tre fr",
-      "sms_text": "TGVERIFY 8843790238 TG264993",
-      "user_id": 8843790238,
-      "verify_message_id": 20734
-    }
-  },
+  "pending": {},
   "seen": {
     "VR.20260919-FYENGV": [
       "062496e9b452c935d999263980a7d49b1f7f427a878eee86567798169f6d75cf",
@@ -608,7 +607,8 @@
       "2ef5b5a26c70873021146921b2a8c799bd37e7a55b66374777f42c22e04ed9d2",
       "a4c7f9a33b31dc934b7bd6c6863a8b33372288d118c5204a6d059228f715091a",
       "216646ad1fee274f74681595568a175ebd56d1163e1361ddbe3d14ded0fe681c",
-      "8a1bb039e56783c4f3c389de350ed1e06a6baf37a3e60a482c78bfca770ced61"
+      "8a1bb039e56783c4f3c389de350ed1e06a6baf37a3e60a482c78bfca770ced61",
+      "ad3fdbb856ab37e564f3037b6c42e7cccba1b75673c846374360f19102148ed0"
     ],
     "VR.20260919-UWCCVJ": [
       "fc017883305481c566515328c76bd28870ef6c3b6ad218e0a325b463303cf023",
