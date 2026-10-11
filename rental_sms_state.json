@@ -573,7 +573,19 @@
     "network_bans": {},
     "profile_strikes": {}
   },
-  "pending": {},
+  "pending": {
+    "-1003901352700:8931079460": {
+      "chat_id": -1003901352700,
+      "code": "TG772486",
+      "deadline": 1791703887.661978,
+      "join_message_id": 21057,
+      "joined_at": 1791703587,
+      "name": "小贝在德国🇩🇪",
+      "sms_text": "TGVERIFY 8931079460 TG772486",
+      "user_id": 8931079460,
+      "verify_message_id": null
+    }
+  },
   "seen": {
     "VR.20260919-FYENGV": [
       "062496e9b452c935d999263980a7d49b1f7f427a878eee86567798169f6d75cf",
