@@ -551,7 +551,19 @@
     "network_bans": {},
     "profile_strikes": {}
   },
-  "pending": {},
+  "pending": {
+    "-1003901352700:8843790238": {
+      "chat_id": -1003901352700,
+      "code": "TG264993",
+      "deadline": 1791681265.681439,
+      "join_message_id": 20733,
+      "joined_at": 1791680965,
+      "name": "tre fr",
+      "sms_text": "TGVERIFY 8843790238 TG264993",
+      "user_id": 8843790238,
+      "verify_message_id": null
+    }
+  },
   "seen": {
     "VR.20260919-FYENGV": [
       "062496e9b452c935d999263980a7d49b1f7f427a878eee86567798169f6d75cf",
