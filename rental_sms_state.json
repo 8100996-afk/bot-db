@@ -626,7 +626,19 @@
       }
     }
   },
-  "pending": {},
+  "pending": {
+    "-1003901352700:5969894836": {
+      "chat_id": -1003901352700,
+      "code": "TG877912",
+      "deadline": 1791780312.5245426,
+      "join_message_id": 21371,
+      "joined_at": 1791780012,
+      "name": "Chieh Hsu",
+      "sms_text": "TGVERIFY 5969894836 TG877912",
+      "user_id": 5969894836,
+      "verify_message_id": null
+    }
+  },
   "seen": {
     "VR.20260919-FYENGV": [
       "062496e9b452c935d999263980a7d49b1f7f427a878eee86567798169f6d75cf",
