@@ -626,19 +626,7 @@
       }
     }
   },
-  "pending": {
-    "-1003901352700:8933634179": {
-      "chat_id": -1003901352700,
-      "code": "TG110748",
-      "deadline": 1791775295.3778148,
-      "join_message_id": 21368,
-      "joined_at": 1791774995,
-      "name": "Lee",
-      "sms_text": "TGVERIFY 8933634179 TG110748",
-      "user_id": 8933634179,
-      "verify_message_id": 21369
-    }
-  },
+  "pending": {},
   "seen": {
     "VR.20260919-FYENGV": [
       "062496e9b452c935d999263980a7d49b1f7f427a878eee86567798169f6d75cf",
