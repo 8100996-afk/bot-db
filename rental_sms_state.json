@@ -683,7 +683,19 @@
       }
     }
   },
-  "pending": {},
+  "pending": {
+    "-1003901352700:8862279040": {
+      "chat_id": -1003901352700,
+      "code": "TG796600",
+      "deadline": 1792152068.381571,
+      "join_message_id": 22516,
+      "joined_at": 1792151768,
+      "name": "Carl Ramirezwell",
+      "sms_text": "TGVERIFY 8862279040 TG796600",
+      "user_id": 8862279040,
+      "verify_message_id": null
+    }
+  },
   "seen": {
     "VR.20260919-FYENGV": [
       "062496e9b452c935d999263980a7d49b1f7f427a878eee86567798169f6d75cf",
