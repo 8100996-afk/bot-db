@@ -707,19 +707,7 @@
       }
     }
   },
-  "pending": {
-    "-1003901352700:8461149908": {
-      "chat_id": -1003901352700,
-      "code": "TG503152",
-      "deadline": 1792363786.7343524,
-      "join_message_id": 23124,
-      "joined_at": 1792363486,
-      "name": "Johney",
-      "sms_text": "TGVERIFY 8461149908 TG503152",
-      "user_id": 8461149908,
-      "verify_message_id": 23125
-    }
-  },
+  "pending": {},
   "seen": {
     "VR.20260919-FYENGV": [
       "062496e9b452c935d999263980a7d49b1f7f427a878eee86567798169f6d75cf",
