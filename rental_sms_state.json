@@ -619,11 +619,6 @@
   },
   "moderation": {
     "message_strikes": {
-      "8598437938": {
-        "count": 3,
-        "last_at": 1792303853,
-        "reason": "辱骂"
-      },
       "8921256744": {
         "count": 2,
         "last_at": 1792302841,
@@ -635,13 +630,7 @@
         "reason": "广告"
       }
     },
-    "network_bans": {
-      "8598437938": {
-        "at": 1792303853,
-        "reason": "辱骂",
-        "username": "Hermes_m"
-      }
-    },
+    "network_bans": {},
     "profile_strikes": {
       "7345828741": {
         "count": 1,
@@ -707,6 +696,14 @@
         "count": 2,
         "last_at": 1792281292,
         "reason": "用户名或显示名称含广告、诈骗引流信息"
+      }
+    },
+    "whitelist": {
+      "8598437938": {
+        "username": "Hermes_m",
+        "name": "赫耳墨斯",
+        "added_at": 1792305246,
+        "reason": "owner approved after false positive"
       }
     }
   },
