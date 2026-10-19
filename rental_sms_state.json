@@ -623,20 +623,9 @@
         "count": 2,
         "last_at": 1792302841,
         "reason": "广告链接"
-      },
-      "8965358977": {
-        "count": 3,
-        "last_at": 1792373378,
-        "reason": "广告链接"
       }
     },
-    "network_bans": {
-      "8965358977": {
-        "at": 1792373378,
-        "reason": "广告链接",
-        "username": "xbinHongKong"
-      }
-    },
+    "network_bans": {},
     "profile_strikes": {
       "7345828741": {
         "count": 1,
