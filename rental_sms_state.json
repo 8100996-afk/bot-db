@@ -702,19 +702,7 @@
       }
     }
   },
-  "pending": {
-    "-1003901352700:8965358977": {
-      "chat_id": -1003901352700,
-      "code": "TG213884",
-      "deadline": 1792404374.2866497,
-      "join_message_id": 23167,
-      "joined_at": 1792404074,
-      "name": "小贝本贝",
-      "sms_text": "TGVERIFY 8965358977 TG213884",
-      "user_id": 8965358977,
-      "verify_message_id": 23168
-    }
-  },
+  "pending": {},
   "seen": {
     "VR.20260919-FYENGV": [
       "062496e9b452c935d999263980a7d49b1f7f427a878eee86567798169f6d75cf",
