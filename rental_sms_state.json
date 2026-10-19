@@ -713,19 +713,7 @@
       }
     }
   },
-  "pending": {
-    "-1003901352700:7222930788": {
-      "chat_id": -1003901352700,
-      "code": "TG535068",
-      "deadline": 1792412417.977226,
-      "join_message_id": 23301,
-      "joined_at": 1792412117,
-      "name": "乾坤",
-      "sms_text": "TGVERIFY 7222930788 TG535068",
-      "user_id": 7222930788,
-      "verify_message_id": 23302
-    }
-  },
+  "pending": {},
   "seen": {
     "VR.20260919-FYENGV": [
       "062496e9b452c935d999263980a7d49b1f7f427a878eee86567798169f6d75cf",
