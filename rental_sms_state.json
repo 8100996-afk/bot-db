@@ -622,6 +622,17 @@
       "seen_at": 1792405342,
       "sender": "",
       "text": "TGVERIFY 8965358977 TG077972"
+    },
+    {
+      "key": "0f8e6fe73b28a45e1787d4c9664186644d4f2834f8313f9a0466173291264c90",
+      "name": "Indonesia",
+      "phone": "+62 819-7749-7998",
+      "received_at": "",
+      "rental_no": "VR.20260919-UWCCVJ",
+      "role": "private",
+      "seen_at": 1792659890,
+      "sender": "",
+      "text": "Jangan lewatkan, Segera bawa anak ke pos pelayanan imunisasi. Kejar sebelum usia 1 tahun, Tuntas sebelum 2 tahun"
     }
   ],
   "initialized_orders": {
@@ -788,7 +799,8 @@
       "df7e070bc967d560f57a475d49a617ae496fc2c66a7a08aea81728798db0118f",
       "bbc724aaff92e61793bb7e160e9556b70d54cde1c175877e408f86d7166e75c9",
       "bcfd7a254223f3f0b1dcd02e65d682ef49deddf7b7183c7c29ce5ab6ec94e60c",
-      "c4ac87ae722eb44ec23e72ff5b1f68fd5637a740f00d1c3e639af86a15e49fb7"
+      "c4ac87ae722eb44ec23e72ff5b1f68fd5637a740f00d1c3e639af86a15e49fb7",
+      "0f8e6fe73b28a45e1787d4c9664186644d4f2834f8313f9a0466173291264c90"
     ]
   },
   "verified_phone_bindings": {}
