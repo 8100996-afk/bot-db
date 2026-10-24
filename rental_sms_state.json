@@ -641,6 +641,11 @@
   },
   "moderation": {
     "message_strikes": {
+      "5944134102": {
+        "count": 1,
+        "last_at": 1792802204,
+        "reason": "广告链接"
+      },
       "797457675": {
         "count": 1,
         "last_at": 1792559666,
